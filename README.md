@@ -28,11 +28,11 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Start Proyect
-#1 config .env file (rename .env.example to .env and config)
-#2 composer install
-#3 php artisan migrate
-#4 php artisan passport:install
-#4 php artisan serve
+- config .env file (rename .env.example to .env and config).
+- run command "composer install".
+- run command "php artisan migrate".
+- run command "php artisan passport:install".
+- run command "php artisan serve".
 
 ## License
 
